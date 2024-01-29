@@ -1,6 +1,6 @@
-﻿using Kreata.Backend.Datas.Entities;
-using Kreata.Backend.Datas.Responses;
-using Kreata.Backend.Repos;
+﻿using Kreata.Backend.Repos;
+using Kreta.Shared.Models;
+using Kreta.Shared.Responses;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Kreata.Backend.Controllers
