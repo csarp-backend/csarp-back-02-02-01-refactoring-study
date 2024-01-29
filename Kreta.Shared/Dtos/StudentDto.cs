@@ -1,4 +1,4 @@
-﻿using Kreta.Shared.Models.Datas.Enums;
+﻿using Kreta.Shared.Models;
 
 namespace Kreta.Shared.Dtos
 {
