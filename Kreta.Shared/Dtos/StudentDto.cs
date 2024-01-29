@@ -1,6 +1,6 @@
 ﻿using Kreta.Shared.Models.Datas.Enums;
 
-namespace Kreta.Shared.Dto
+namespace Kreta.Shared.Dtos
 {
     public class StudentDto
     {

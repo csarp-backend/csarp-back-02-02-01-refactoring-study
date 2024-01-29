@@ -1,6 +1,4 @@
-﻿using Kreta.Shared.Models.Datas.Enums;
-
-namespace Kreta.Shared.Models.Datas.Entities
+﻿namespace Kreta.Shared.Models
 {
     public class Student
     {
